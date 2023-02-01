@@ -1,0 +1,164 @@
+[
+  {
+    "id": 1,
+    "matricula": 21050615,
+    "nombre": "ALEMÁN ZAMUDIO MIGUEL URIEL",
+    "matematicas": 10,
+    "quimica": 9,
+    "fisica": 10,
+    "geografia": 9
+  },
+  {
+    "id": 2,
+    "matricula": 22050067,
+    "nombre": "ESTRELLA MÉNDEZ JESÚS ERNESTO",
+    "matematicas": 9,
+    "quimica": 8,
+    "fisica": 10,
+    "geografia": 9
+  },
+  {
+    "id": 3,
+    "matricula": 22050098,
+    "nombre": "HERNÁNDEZ MARTÍNEZ ALAIN JESÚS",
+    "matematicas": 8,
+    "quimica": 7,
+    "fisica": 9,
+    "geografia": 9
+  },
+  {
+    "id": 4,
+    "matricula": 22050136,
+    "nombre": "PENILLA OVALLE JESÚS MAYDEL",
+    "matematicas": 9,
+    "quimica": 8,
+    "fisica": 10,
+    "geografia": 9
+  },
+  {
+    "id": 5,
+    "matricula": 22050156,
+    "nombre": "HERNÁNDEZ GARCÍA ALEXIS ALBERTO",
+    "matematicas": 8,
+    "quimica": 7,
+    "fisica": 9,
+    "geografia": 9
+  },
+  {
+    "id": 6,
+    "matricula": 22050158,
+    "nombre": "SÁNCHEZ MENDIVIL ALDO",
+    "matematicas": 7,
+    "quimica": 6,
+    "fisica": 8,
+    "geografia": 8
+  },
+  {
+    "id": 7,
+    "matricula": 22050199,
+    "nombre": "ELIZALDE ZAZUETA KEVIN ALEXIS",
+    "matematicas": 6,
+    "quimica": 5,
+    "fisica": 7,
+    "geografia": 8
+  },
+  {
+    "id": 8,
+    "matricula": 22050235,
+    "nombre": "SOSA HERNÁNDEZ JOSÉ ANTONIO",
+    "matematicas": 9,
+    "quimica": 8,
+    "fisica": 10,
+    "geografia": 7
+  },
+  {
+    "id": 9,
+    "matricula": 22050275,
+    "nombre": "ESPINOZA MALDONADO LUIS ENRIQUE",
+    "matematicas": 9,
+    "quimica": 8,
+    "fisica": 10,
+    "geografia": 8
+  },
+  {
+    "id": 10,
+    "matricula": 22050342,
+    "nombre": "LÓPEZ GUERRA CARLOS DANIEL",
+    "matematicas": 10,
+    "quimica": 9,
+    "fisica": 10,
+    "geografia": 9
+  },
+  {
+    "id": 11,
+    "matricula": 22050348,
+    "nombre": "IBARRA SARMIENTO JESÚS JAVIER",
+    "matematicas": 10,
+    "quimica": 9,
+    "fisica": 10,
+    "geografia": 8
+  },
+  {
+    "id": 12,
+    "matricula": 22050359,
+    "nombre": "MARTÍNEZ HERNÁNDEZ IKER ALEXANDER",
+    "matematicas": 8,
+    "quimica": 7,
+    "fisica": 9,
+    "geografia": 9
+  },
+  {
+    "id": 13,
+    "matricula": 22050397,
+    "nombre": "MARTÍNEZ DURÁN MARCOS ULISES",
+    "matematicas": 8,
+    "quimica": 7,
+    "fisica": 9,
+    "geografia": 10
+  },
+  {
+    "id": 14,
+    "matricula": 22050439,
+    "nombre": "DURÁN OLIVERA CHRISTIAN IVÁN",
+    "matematicas": 8,
+    "quimica": 7,
+    "fisica": 9,
+    "geografia": 7
+  },
+  {
+    "id": 15,
+    "matricula": 22050469,
+    "nombre": "DURÁN QUIBRERA JAVIER",
+    "matematicas": 6,
+    "quimica": 5,
+    "fisica": 7,
+    "geografia": 7
+  },
+  {
+    "id": 16,
+    "matricula": 22050582,
+    "nombre": "OLIVARES OLIVARES DIEGO ANTONIO",
+    "matematicas": 7,
+    "quimica": 6,
+    "fisica": 8,
+    "geografia": 8
+  },
+  {
+    "id": 17,
+    "matricula": 22050693,
+    "nombre": "LÓPEZ ESPINOZA RICARDO ALONSO",
+    "matematicas": 9,
+    "quimica": 8,
+    "fisica": 10,
+    "geografia": 8
+  },
+  {
+    "id": 18,
+    "matricula": 22050709,
+    "nombre": "SANDOVAL SÁNCHEZ ALESSANDRA MARISOL",
+    "matematicas": 8,
+    "quimica": 7,
+    "fisica": 9,
+    "geografia": 7
+  }
+]
