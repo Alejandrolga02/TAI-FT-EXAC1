@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<title>Examen Corte 1</title>
+</head>
+
+<body>
+	<nav class="navbar navbar-dark bg-primary">
+		<div class="container-fluid">
+			<span class="navbar-brand mb-0 h1">Examen Corte 1</span>
+		</div>
+	</nav>
+
+	<div class="container p-2 d-flex flex-column justify-content-center align-items-center">
+		<div class="table-responsive d-none" id="tabla">
+			<h1>Lista de Alumnos</h1>
+			<table class="table table-light table-hover table-striped table-bordered">
+				<caption>Promedio General: <span id="promedioGeneral" class="fw-bold"></span></caption>
+				<thead>
+					<th>ID</th>
+					<th>Matricula</th>
+					<th>Nombre</th>
+					<th>Matemáticas</th>
+					<th>Química</th>
+					<th>Física</th>
+					<th>Geografia</th>
+					<th>Promedio</th>
+				</thead>
+
+				<tbody id="resultado"></tbody>
+			</table>
+		</div>
+		<div>
+			<button type="button" class="btn btn-primary me-4" id="btnMostrar">Mostrar</button>
+			<button type="button" class="btn btn-secondary" id="btnLimpiar">Limpiar</button>
+		</div>
+	</div>
+
+	<script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+	<script src="js/bootstrap.bundle.min.js"></script>
+	<script src="js/script.js"></script>
+</body>
+
+</html>
